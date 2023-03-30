@@ -1,0 +1,14 @@
+.our {
+  padding: 118px 0 130px;
+  text-align: center;
+}
+.our__title {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 130%;
+  /* or 57px */
+  text-align: center;
+  color: #000000;
+}

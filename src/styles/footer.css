@@ -1,0 +1,28 @@
+.footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.3137254902);
+  border-bottom: 25px solid #5CBE3A;
+}
+.footer__nav {
+  padding: 40px 0 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer__menu {
+  display: flex;
+  column-gap: 69px;
+  align-items: center;
+}
+.footer__right {
+  display: flex;
+  align-items: center;
+}
+.footer__item {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 140%;
+  /* identical to box height, or 31px */
+  color: #051101;
+}

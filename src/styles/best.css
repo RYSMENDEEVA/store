@@ -1,0 +1,25 @@
+.best {
+  padding-bottom: 110px;
+}
+.best__row {
+  display: flex;
+  align-items: center;
+}
+.best__card {
+  width: 50%;
+}
+.best__card-img {
+  width: 100%;
+}
+.best__card-right {
+  padding-left: 120px;
+}
+.best__card-title {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 130%;
+  /* or 57px */
+  color: #051101;
+}

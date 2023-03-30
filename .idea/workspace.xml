@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd82a73b-c330-434e-8c39-0ece56cbfdd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/after-our.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/before-best.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/before-our.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/best-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/boots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/boots2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/nike__our.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/view-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/walk-el.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/About/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/product/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/review/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/best.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/best.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/now.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/our.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/our.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/view.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/walk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/walk.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N5XGMIOKYPLzCupyq2aew7OA7L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k\Desktop\store\src\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd82a73b-c330-434e-8c39-0ece56cbfdd2" name="Changes" comment="" />
+      <created>1678954820100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678954820100</updated>
+      <workItem from="1678954821380" duration="5687000" />
+      <workItem from="1679126327473" duration="29115000" />
+      <workItem from="1679557955425" duration="8161000" />
+      <workItem from="1679656838996" duration="10414000" />
+      <workItem from="1679759317795" duration="22000" />
+      <workItem from="1679854681090" duration="789000" />
+      <workItem from="1679907461433" duration="36000" />
+      <workItem from="1679908559534" duration="13360000" />
+      <workItem from="1680164261111" duration="1105000" />
+      <workItem from="1680167083073" duration="248000" />
+      <workItem from="1680167336790" duration="41000" />
+      <workItem from="1680167411958" duration="1365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1679994826770">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1679994826770" />
+    <state x="279" y="54" key="SettingsEditor" timestamp="1679992663291">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="279" y="54" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1679992663291" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1679908587985">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1679908587985" />
+  </component>
+</project>
