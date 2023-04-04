@@ -1,0 +1,24 @@
+.tabs{
+  padding-bottom: 100px;
+  &__tab-nav-btn{
+    padding: 10px 15px;
+    color: #5CBE3A;
+    background: white;
+    border: 1px solid #5CBE3A;
+    cursor: pointer;
+    &.active{
+      background: #5CBE3A;
+      color: white;
+    }
+  }
+  &__content{
+    margin: 25px 0;
+    width: 60%;
+    &-item{
+      display: none;
+      &.active{
+        display: flex;
+      }
+    }
+  }
+}

@@ -14,9 +14,9 @@
             rel="stylesheet"
             href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
     />
-    <link rel="stylesheet" href="./src/styles/style.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="./src/styles/animate.css">
+    <link rel="stylesheet" href="./src/styles/style.css">
 </head>
 <body>
  <header class="header">
@@ -31,6 +31,7 @@
                      <a href="./src/pages/product/index.html" class="header__link">Product</a>
                      <a href="./src/pages/About/index.html" class="header__link">About</a>
                      <a href="./src/pages/review/index.html" class="header__link">Review</a>
+                     <a href="./src/pages/review/index.html" class="header__link">contact</a>
                  </div>
                  <button class="btn header__btn">
                      SHOP NOW
@@ -47,9 +48,9 @@
  </header>
 
 <main>
-    <section data-aos="zoom-in"  class="walk">
+    <section data-aos="zoom-in"  class="walk  wow bounceInRight">
         <div class="container">
-            <div class="walk__content">
+            <div class="walk__content wow bounceInRight">
                 <div class="walk__info">
 
                     <p class="walk__info-suptitle">
@@ -381,6 +382,8 @@
 
  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+ <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+ <script src="./src/js/wow.min.js"></script>
  <script>
      var swiper = new Swiper(".mySwiper", {
          spaceBetween: 30,
@@ -394,7 +397,6 @@
      });
 
  </script>
- <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
  <script src="./src/js/main.js"></script>
 
 

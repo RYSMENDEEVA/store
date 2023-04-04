@@ -249,6 +249,33 @@
     row-gap: 30px;
   }
 }
+.tabs {
+  padding-bottom: 100px;
+}
+.tabs__tab-nav-btn {
+  padding: 10px 15px;
+  color: #5CBE3A;
+  background: white;
+  border: 1px solid #5CBE3A;
+  cursor: pointer;
+}
+.tabs__tab-nav-btn.active {
+  background: #5CBE3A;
+  color: white;
+}
+.tabs__content {
+  margin: 25px 0;
+  width: 60%;
+}
+.tabs__content-item {
+  display: none;
+}
+.tabs__content-item.active {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .walk {
   padding: 205px 0 77px;
   background: #EBFFE4;
